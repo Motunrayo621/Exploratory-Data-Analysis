@@ -3,7 +3,8 @@
 ### INTRODUCTION
 As a data analyst at K Supermarket, I've been asked to deliver a sales report to the Senior Managers that details the company's sales, costs, profits, quantity sold, and historical performance across the nation.
 I gave a summary of the sales statistics, emphasizing the trends and patterns, the main areas that needed improvement, and also making suggestions for the future sales tactics.
-##### Tool Used : Microsoft Excel, Microsoft PowerPoint and Power BI
+
+**Tool Used : Microsoft Excel, Microsoft PowerPoint and Power BI**
 ### ABOUT THE DATASET
 The dataset used in this project is an Excel file obtained from Microsoft @Financial Sample Dataset. It has 16 columns including Segment, Country, Product, Discount Band, Unit Sold, Manufacturing Price, Sale Price, Gross Sale, Discount, Sales, CGOS, Profit, date, Month Number, Month Name and Year.
 
